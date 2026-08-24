@@ -1,0 +1,7 @@
+Technologies Used
+Python – Core programming and AI logic
+Pandas – Data processing and analysis
+Streamlit – Web application interface
+Scikit-learn – Recommendation and ML concepts
+Git & GitHub – Version control and project hosting
+Kaggle Dataset – E-commerce data source
