@@ -1,3 +1,6 @@
 Problem Statement
 
-Customers often struggle to find suitable products among a large number of e-commerce options. This project aims to develop an AI-powered Commerce Assistant that understands customer requirements and helps users search, compare, and receive personalized product recommendations based on budget, ratings, reviews, and product data.
+Customers often struggle to find suitable products among a large number of e-commerce options. 
+This project aims to develop an AI-powered Commerce Assistant that understands customer requirements 
+and helps users search, compare, and receive personalized product recommendations based on budget, 
+ratings, reviews, and product data.
