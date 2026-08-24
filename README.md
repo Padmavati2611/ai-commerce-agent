@@ -146,7 +146,7 @@ The dataset can be replaced or extended with additional product information to i
 * Integrate e-commerce APIs.
 
 * screenshots
-* <img width="1595" height="836" alt="image" src="https://github.com/user-attachments/assets/9490ef16-dd28-4673-a7a1-43683e1c13af" />
+ <img width="1595" height="836" alt="image" src="https://github.com/user-attachments/assets/9490ef16-dd28-4673-a7a1-43683e1c13af" />
 
 <img width="1589" height="834" alt="image" src="https://github.com/user-attachments/assets/2ddbdc6b-d5bc-4e08-ad99-507533a49ec6" />
 
@@ -172,14 +172,3 @@ Through this project, the following concepts are demonstrated:
 * Git and GitHub
 * AI-powered product discovery
 
-## 👩‍💻 Author
-
-**Padmavati**
-
-AI/ML Engineering Student
-
-GitHub: **Padmavati2611**
-
-## 📄 License
-
-This project is developed for educational and internship purposes.
